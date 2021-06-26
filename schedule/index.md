@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Schedule
-nav_order: 11
-has_toc: true
+nav_order: 20
+has_toc: false
 ---
 
 # Schedule
