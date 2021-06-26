@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Introduction
-nav_order: 4
+nav_order: 10
+has_toc: true
 ---
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3f3f2c0a4106abcb9a1d/maintainability)](https://codeclimate.com/github/UnlyEd/next-right-now/maintainability)
