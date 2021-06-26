@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Schedule
 nav_order: 11
 has_toc: true
 ---
