@@ -6,7 +6,7 @@ remote_theme: pmarsceill/just-the-docs@v0.3.0 # XXX Our Jekyll theme - See https
 ga_tracking: UA-89785688-8 # See https://pmarsceill.github.io/just-the-docs/docs/configuration/#google-analytics
 
 # XXX --------- Use custom color scheme ------------
-color_scheme: foo
+#color_scheme: foo
 
 # XXX --------- Common to all configs (local + GHP) --------------
 
