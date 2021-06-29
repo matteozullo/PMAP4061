@@ -23,106 +23,79 @@ has_toc: true
 
 ## Description
 
-<div class="code-example" markdown="1">
-
 This course teaches the theories and methods of policy evaluation integrating quantitative and qualitative skills. Thus, it provides students with the foundational knowledge to be considered for policy analysis positions in the public, private for-profit, and private non-profit sectors.
 
-</div>
-
----
-
-## Prerequisites
-
-<div class="code-example" markdown="1">
-
-- ECON 2105
-- ECON 2106
-- PMAP 4041
-- PMAP 4051
-    - It is used in production by [Unly](http://unly.org/), and thus covers enterprise-grade features and needs.
-- To be used as an **educational** resource, meant to be used as a **learning/teaching** resource, even if you don't use it as a boilerplate.
-
-</div>
-
----
+- **Prerequisites:**: ECON 2105, ECON 2106, PMAP 4041, PMAP 4051
+- **Course Dates:** Monday, August 23rd – Monday, December 6, 2021
+- **Class Times:** Mondays & Wednesdays at 2:00pm–3:15 PM
+- **Location:** Aderhold Learning Center (Room 107), 60 Luckie St NW, Atlanta, GA  30303, United States
 
 ## Instructor
 
-<div class="code-example" markdown="1">
-Please refer to the instructor section class meetings and office hours.
-</div>
+- **Name:** Matteo Zullo
+- Affiliations: [Andrew Young School of Policy Studies](https://aysps.gsu.edu/phd-student/zullo-matteo/), [Georgia Tech's Data Science and Policy Lab](https://datasciencepolicy.gatech.edu/team/)
+- **e-mail:** mzullo1@student.gsu.edu
+- **Office Hours:** Wednesdays, 3:30-5:00 PM at Andrew Young School of Policy Studies (5th floor), 14 Marietta St NW, Atlanta, GA 30303
 
 ---
 
-## Schedule
+## Coursework
 
-<div class="code-example" markdown="1">
-Please refer to the class schedule.
-</div>
+### Schedule
 
----
+Please refer to the [Schedule](/outline.md) section for more information. The teaching materials for the course include:
+- readings (required, might be bulk downloaded through iCollege)
+- [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook (optional, available at no cost from the Library – link [here](https://ebookcentral.proquest.com/lib/gsu/detail.action?docID=5611552))
+- slides (class attendance is required, will be posted in the [Schedule](/outline.md) section one week ahead of class meetings)
 
-## Project
-
-<div class="code-example" markdown="1">
-Please refer to the project description for more information.
-</div>
-
----
-
-## Assignments
-
-<div class="code-example" markdown="1">
-Assignments will be posted and must be completed through iCollege. Solutions will be provided in the assignment section.
-</div>
-
----
+--
 
 ## Grading
 
 ### Letter Grades
 
-<div class="code-example" markdown="1">
-The student is graded out of 100 points, and 5 bonus will be available through in-class exercises. Letter grades will be assigned as per the table below.
+The student is graded out of 100 points and 5 bonus will be available through in-class exercises. Letter grades will be assigned as per the table below.
 
 | Letter Grade | Points |
 |--|--|
 |A+  |  90|
 
+### Breakdown
+
 Total grade is broken down as follows:
-- Participation: (25 pts.)
+- Participation (25 pts.)
+  - Students must turn in comments in the form of a 100-word abstract *on the Monday of each week* and will get full credits. For *each reading*, students will write up an abstract which conforms to the BOMCR method. More information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html).
 - Quizzes: (25 pts.)
-- Project (50 pts.)
-- Bonus points (5 pts.)
+  - Students will complete the quizzes through iCollege and solutions will posted in the [Schedule](/outline.md) of the class website. Quizzes are open-book (i.e., no proctoring & consultation of web sources are allowed), each entailing 10 questions to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour.
+- Group Project (50 pts.): refer to the [Project](/project.md) description for more information
+- Bonus points (5 pts.): awarded to the members of the group winning most in-class exercises.
+  - In-class exercise will be conducted in the same groups that will complete the group projects. Each team will score every other team's performance and the team ranking first overall will receive 5 points at the end of the course (i.e., each group member will add 5 bonus points to her total grade).
+
+---
 
 ### Late Policy
-- *Late submissions* are discouraged but accepted. Students who fail to comply by deadlines must accompany late submissions with notes providing justifications for the delay.
-- *Broader issues* which affect the student performance throughout the semester – including and not limited to disability, childcare, and mental health – must be notified to the instructor at the beginning of the semester.
+- Late submissions are **wholeheartedly discouraged** but no late policy applies. Students who fail to meet deadlines must follow-up on their late submissions with an e-mail note providing a justification for the delay. 
+- Broader issues which affect the student performance throughout the semester – including and not limited to disability, childcare, and mental health – must be notified to the instructor *at the beginning of the semester*.
 
 
 ### Gradescope
-
 All assignments will be submitted and returned through [Gradescope](gradescope.com). Students will be notified upon grade releases. Regrade requests may be submitted through [Gradescope](gradescope.com). Student might troubleshoot login issues at [https://gradescope.com/reset_password](https://gradescope.com/reset_password), and the same link can be used to set up the password for first access.
-
-</div>
 
 ---
 
 ## Policies
 
-## Class withdrawal
-- *Students wishing to withdraw within the official deadline* envisioned in the [Academic Calendar](https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/#fall-2021) might do so without being given a grade of F.
+### Class Attendance
+Class attendance is **required**. Students who experience personal or work-related issues might occasionally skip class meetings. When that happens, students are reponsible for sending out an e-mail note and to book a session during the online office hours window.
+
+### Class withdrawal
+- *Students wishing to withdraw within the official deadline* as per the [Academic Calendar](https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/#fall-2021) might do so without receiving a grade of F.
 - *Students wishing to withdraw past the official deadline* might do so in accordance with the [Emergency Withdrawal](https://deanofstudents.gsu.edu/student-assistance/emergency-withdrawal/) policy.
 
-## iCollege
-The learning analytics platform iCollege is used to distribute class materials, assignments, and grades. Students might post their question on iCollege as well.
-
-
-## University Policies
+### University Policies
 Standard university-wide policies apply to this class. Students might read them up at:
 
-- [AYS Career Services & Student Life Office](http://aysps.gsu.edu/career/calendar) -
-
+- [AYS Career Services & Student Life Office](http://aysps.gsu.edu/career/calendar)
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
