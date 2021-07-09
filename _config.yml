@@ -18,7 +18,7 @@ ga_tracking: UA-89785688-8 # See https://pmarsceill.github.io/just-the-docs/docs
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matteo Zullo
+title: PMAP 4061
 description: >- # this means to ignore newlines until "baseurl:"
   Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript.
   Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization,
@@ -28,11 +28,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Home": "/next-right-now"
-  "Github": "https://github.com/UnlyEd/next-right-now"
-  "About us": "https://github.com/UnlyEd/Unly"
+  "Matteo Zullo": "http://www.linkedin.com/in/matteo-zullo"
 
-footer_content: "Copyright &copy; 2020 Unly. <a href=\"https://github.com/UnlyEd/next-right-now/blob/master/LICENSE\">MIT license.</a>"
+#footer_content: "Copyright &copy; 2020 Unly. <a href=\"https://github.com/UnlyEd/next-right-now/blob/master/LICENSE\">MIT license.</a>"
 #color_scheme: "dark"
 nrn_default_preset: v2-mst-aptd-at-lcz-sty # Default NRN preset, used as quick start preset
 
