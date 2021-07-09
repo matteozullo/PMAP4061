@@ -12,16 +12,13 @@ The outline for the course is displayed below indicating class meetings, materia
 
 ## Modules
 
-```
 ### M1: Introduction
 
 #### M1.1: Policy Evaluation
 * *Keys*: policy evaluation, program evaluation, policy implementation
 * *Readings*:
-
-
-	* [Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)
-	* [Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.](https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf)
+	1. [Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)
+	2. [Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.](https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf)
 
 
 #### M1.2: Public Policy
@@ -118,7 +115,6 @@ The outline for the course is displayed below indicating class meetings, materia
 	* [Athey, S. (2017). Beyond Prediction: Using Big Data for Policy Problems. *Science*, 355(6324):483–485.](https://doi.org/10.1126/science.aal4321)
 	* [Blumenstock, J., Cadamuro, G., & On, R. (2015). Predicting Poverty and Wealth from Mobile Phone Metadata. *Science*, 350(6264):1073–1076.](https://doi.org/10.1126/science.aac4420)
 	* [Arnold, K. E. & Pistilli, M. D. (2012). Course Signals at Purdue: Using Learning Analytics to Increase Student Success. In *Proceedings of the 2nd international Conference on Learning Analytics and Knowledge*, pages 267–270.](https://doi.org/10.1145/2330601.2330666) [Optional]
-```
 
 ## Outline
 
