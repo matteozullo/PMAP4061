@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Schedule
-nav_order: 23
-has_toc: true
+nav_order: 20
+has_toc: false
 ---
 
 # Schedule
@@ -17,8 +17,11 @@ The outline for the course is displayed below indicating class meetings, materia
 #### M1.1: Policy Evaluation
 * *Keys*: policy evaluation, program evaluation, policy implementation
 * *Readings*:
+
+```
 	* [Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)
-	* [Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.](https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf) 
+	* [Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.](https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf)
+```
 
 #### M1.2: Public Policy
 * *Keys*: private and public utility functions, trade-offs, distributive and redistributive policies
