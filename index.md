@@ -60,13 +60,13 @@ The student is graded out of 100 points and 5 bonus will be available through in
 
 
 Total grade is broken down as follows:
-- Participation (25 pts.)
-For *each reading*, students will write up an abstract which loosely conforms to the BOMCR method (more information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html)). Students must turn in the abstracts as a single submission through the corresponding assignment item on iCollege. Although I will provide feedback on their work, students will be awarded full credits whenever submitting any abstract. I used the word "loosely" before because readings differ and different formats might be more appropriate for some.
-- Quizzes (25 pts.)
+- Participation (25 pts.)<br/><br/>
+For each reading, students will write up an abstract which loosely conforms to the BOMCR method (more information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html)). Students must turn in the abstracts as a single submission through the corresponding assignment item on iCollege. Although I will provide feedback on their work, students will be awarded full credits whenever submitting any abstract. I used the word "loosely" before because readings differ and different formats might be more appropriate for some.
+- Quizzes (25 pts.)<br/><br/>
 Five quizzes will be issued during the semester. Students will complete the quizzes through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes are open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the class, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.
-- Group Project (50 pts.)
+- Group Project (50 pts.)<br/><br/>
 Please refer to the [Project](/project.md) section for more information. The project entails a policy report and a Poster presentation to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group performance are encouraged to voice their concerns as early as possible.
-- Bonus points (2.5 pts.)
+- Bonus points (2.5 pts.)<br/><br/>
 The bonus points will be awarded to the members of the group scoring the most points in in-class exercises. In-class exercise will be conducted in the same groups that will complete the group projects. Each team will score every other team's performance and the team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
 
 ---
