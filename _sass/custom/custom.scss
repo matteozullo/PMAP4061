@@ -51,3 +51,8 @@ h2 {
     font-size: 24px;
   }
 }
+
+/* Remove underline from links */
+a {
+ border: none !important;
+}
