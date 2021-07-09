@@ -24,7 +24,7 @@ The outline for the course is displayed below indicating class meetings, materia
 </ul>
 </div>
 
-[Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)</li>
+[Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)
 
 #### M1.2: Public Policy
 * *Keys*: private and public utility functions, trade-offs, distributive and redistributive policies
