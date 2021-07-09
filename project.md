@@ -2,7 +2,7 @@
 
 layout: default
 
-title: Outline
+title: Project
 
 nav_order: 23
 
