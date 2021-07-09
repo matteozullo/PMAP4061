@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 aux_links:
   "Matteo Zullo": "http://www.linkedin.com/in/matteo-zullo"
 
-#footer_content: "Copyright &copy; 2020 Unly. <a href=\"https://github.com/UnlyEd/next-right-now/blob/master/LICENSE\">MIT license.</a>"
+footer_content: "<a href=\"https://github.com/UnlyEd/next-right-now/blob/master/LICENSE\">MIT license.</a>"
 #color_scheme: "dark"
 nrn_default_preset: v2-mst-aptd-at-lcz-sty # Default NRN preset, used as quick start preset
 
