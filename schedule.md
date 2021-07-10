@@ -9,7 +9,7 @@ has_toc: true
 The modules for this course define the content which students are expected to master at the end of this course.
 - The [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook might be used to reinforce learning but its use is not required.
 - Coversely, readings are mandatory unless marked as "Optional" and so is class attendance.
-- The [Outline](##Outline) for the course is displayed below indicating class meetings, materials, and assignment release and due dates. Slides accompanying the class meetings will be also posted there.
+- The [Outline](#outline) for the course is displayed below indicating class meetings, materials, and assignment release and due dates. Slides accompanying the class meetings will be also posted there.
 
 ---
 
