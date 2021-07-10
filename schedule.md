@@ -269,5 +269,5 @@ The outline for the course is displayed below indicating class meetings, materia
 | *Nov 17* 	| M6.2 (cont.) 	|                                    	|
 | *Nov 29* 	| M6.3         	| Quiz 5 [released]                  	|
 | *Dec 1*  	| M6.3 (cont.)  |                                    	|
-| *Dec 6  	| Project Q&A  	|                                    	|
+| *Dec 6*  	| Project Q&A  	|                                    	|
 | *Dec 11* 	|              	| Project 2 [due]<br> Poster & Video [due]<br>Quiz 5 [due] 	|
