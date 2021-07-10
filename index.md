@@ -37,7 +37,7 @@ This course teaches the theories and methods of policy evaluation integrating qu
 - **Name:** Matteo Zullo
 - **Affiliations**: [Andrew Young School of Policy Studies](https://aysps.gsu.edu/phd-student/zullo-matteo/), [Georgia Tech's Data Science and Policy Lab](https://datasciencepolicy.gatech.edu/team/)
 - **e-mail:** mzullo1@student.gsu.edu
-- **Office Hours:** Wed, 3:30-5:00 PM at Andrew Young School of Policy Studies (5th floor), 14 Marietta St NW, Atlanta, GA 30303
+- **Office Hours:** Wed, 3:30-5:00 PM at [Andrew Young School of Policy Studies (5th floor), 14 Marietta St NW, Atlanta, GA 30303](https://www.google.com/maps/place/Georgia+State+University-Andrew+Young+School+of+Policy+Studies/@33.7544008,-84.3922993,17z/data=!3m1!4b1!4m5!3m4!1s0x88f5038613efe1b9:0x910c3981f9a5cf85!8m2!3d33.7543964!4d-84.3901053)
 
 ---
 
@@ -60,17 +60,13 @@ The student is graded out of 100 points and 5 bonus will be available through in
 
 Total grade is broken down as follows:
 
-#### Participation (25 pts.)
-For each reading, students will write up an abstract which loosely conforms to the BOMCR method (more information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html)). Students must turn in the abstracts as a single submission through the corresponding assignment item on iCollege. Although I will provide feedback on their work, students will be awarded full credits whenever submitting any abstract. I used the word "loosely" before because readings differ therefore different formats might be appropriate at times.
+- **Participation (25 pts.)**: For each reading, students will write up an abstract which loosely conforms to the BOMCR method (more information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html)). I used the word "loosely" before because readings differ therefore different formats might be appropriate at times. Students must turn in the abstracts as a single submission through the corresponding assignment item on iCollege and will be awarded full credits whenever submitting the weekly assignment. 
 
-#### Quizzes (25 pts.)
-Five quizzes will be issued during the semester. Students will complete the quizzes through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes are open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the class, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.
+- **Quizzes (25 pts.)**: Five quizzes will be issued during the semester. Students will complete them through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes are open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.
 
-#### Project (50 pts.)
-Please refer to the [Project](/project.md) section for more information. The project consists of a policy report and a Poster presentation to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
+- **Project (25 pts.)**: Please refer to the [Project](/project.md) section for more information. The project consists of a policy report and a Poster presentation to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
 
-#### Bonus points (2.5 pts.)
-The bonus points will be awarded to the members of the group scoring the most points in in-class exercises. In-class exercise will be conducted in the same groups that will complete the group projects. Each team will score every other team's performance and the team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
+- **Bonus points (25 pts.)**: In-class exercise will be conducted in the same groups that will complete the group projects. Each team will score every other team's performance and the team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
 
 ---
 
@@ -90,7 +86,7 @@ Class attendance is **required**. Students who experience personal or work-relat
 - Students wishing to withdraw past the official deadline might do so in accordance with the [Emergency Withdrawal](https://deanofstudents.gsu.edu/student-assistance/emergency-withdrawal/) policy.
 
 ### University
-Standard university-wide policies apply to this class. Students might read up on them at:
+Standard university policies apply to this class. Students might read up on them at:
 
 - [AYSPS Career Services & Student Life Office](https://career.aysps.gsu.edu)
 - [Student Code of Conduct](https://codeofconduct.gsu.edu)
