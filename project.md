@@ -16,12 +16,12 @@ has_toc: false
 ## Description
 
 In this project, you will be working in teams of three to four. You will craft a six-month response plan to **tackle the COVID-19 outbreak in February 2020 leading into the Fall**. You will deliver your final projects in two installments as detailed out in the section below. Your final deliverable will also include a Poster presentation to be delivered through an unlisted YouTube video.<br>
-You might *loosely* follow the six steps outlined in the [Meltzer & Schwartz](https://doi.org/10.4324/9781315209678) textbook, but you will mostly have flexibility with regard to structuring your final paper. Therefore, sectioning is really up to individual groups although one candidate structure often used for policy reports is *Executive Summary* (optional), *Introduction*, *Background*, *Policy Recommendations*, *Conclusions*, Appendix (optional). An *Executive Summary* is most times perfunctuntory when your ideas have been clearly summarized in the *Conclusions*. As a matter of fact, the *Conclusions* is not a place for you to add new material but a place for yout to restate and summarize what already stated elsewhere in the write-up. Also, the *Conclusions* is where consumers of your report will likely get their eyes on first, so you really want to make it a stand out.
+You might loosely follow the six steps outlined in the [Meltzer & Schwartz](https://doi.org/10.4324/9781315209678) textbook, but you will mostly have flexibility with regard to structuring your final paper. Therefore, sectioning is really up to individual groups although one candidate structure often used for policy reports would be *Executive Summary* (optional), *Introduction*, *Background*, *Policy Recommendations*, *Conclusions*, *Appendix* (optional). An *Executive Summary* is most times perfunctuntory when your ideas have been clearly summarized in the *Conclusions*. Effectively, the *Conclusions* is not a place for you to add new material but a place for yout to restate and summarize what already stated elsewhere in the write-up. Also, the *Conclusions* is where consumers of your report will likely get their eyes on first, so you really want to make it a stand out.
 
  The value you bring as a policy analyst is manifold:
 * You critically examine qualitative and quantitative evidence from a variety of sources.
 * You tie evidence back to your objective function to outline coherent response strategies.
-* You acknowledge both the strengths and the limitations of your policy alternatives, your assumptions, and your model.
+* You acknowledge both the strengths and the limitations of your policy alternatives, your assumptions, and your evaluation model.
 
 ## Context
 
@@ -39,13 +39,13 @@ The following reads are essential starters:
 ## Format
 
 Format is quite open, but you want to be within the **3,000-5,000 words range**. This range is standard for policy reports while policy briefs are on the shorter side coming in at 1,500-3,000 words. You probably want to use Microsoft Word for your final report but really any text editor (e.g., Pages) and markup language (e.g., LateX) is fair game. Adherence to the [APA style guidelines](https://apastyle.apa.org) is encouraged.
-You will be turning in the *Introduction* and *Background* section or the project (or whatever content which covers those if you decide to departure from the template) halfway through the semester and your final project including the Poster and the related video at the end of the course. The [Schedule](/schedule.md) section includes official due dates for the project deliverables.
+You will be turning in the *Introduction* and *Background* section or the project (or whatever else covers that content if you decide to depart from the model structure) halfway through the semester and your final project inclusive of the Poster and the related video at the end of the course. The [Schedule](/schedule.md) section includes official due dates for the project deliverables.
 
 
 ## Structure
 
 ### Introduction
-In this section, you define the problem statement and outline the remainder of the report. Effectively, you will reverse-engineer your literature review your policy alternatives starting from your problem statement. Hence, you must:
+In this section, you define the problem statement and outline the remainder of the report. Effectively, you will reverse-engineer your literature review and policy alternatives starting from your problem statement. Hence, you must:
 
 * Clearly spell out your **problem statement** avoiding [tautologies](https://www.britannica.com/topic/tautology).
 * Comprehensively define a **public utility function** which includes variables, resources, and constraints to the public choice problem. This does not need be a mathematical presentation but a rigorous showing of your hand. 
