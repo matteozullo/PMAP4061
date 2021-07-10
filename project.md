@@ -15,7 +15,8 @@ has_toc: false
 
 ## Description
 
-In this project, you will be working in teams of three to four. You will craft a six-month response plan to tackle the COVID-19 outbreak in February 2020 leading into the Fall. You will deliver your final projects in two installments as detailed out in the section   below. Your final deliverable will include a Poster presentation to be delivered through an unlisted YouTube video.\\
+In this project, you will be working in teams of three to four. You will craft a six-month response plan to tackle the COVID-19 outbreak in February 2020 leading into the Fall. You will deliver your final projects in two installments as detailed out in the section   below. Your final deliverable will include a Poster presentation to be delivered through an unlisted YouTube video.
+
 You might *loosely* follow the six steps outlined in the [Meltzer & Schwartz](https://doi.org/10.4324/9781315209678) textbook, however you will have flexibility with regard to structuring your final paper. Therefore, sectioning is really up to individual groups although one candidate structure often used for policy reports reads *Executive Summary* (optional), *Introduction*, *Background*, *Policy Recommendations*, *Conclusions*, Appendix (optional). It is a well-kept secret in policy analysis writing that an *Executive Summary* is most times perfunctuntory when your ideas have been clearly summarized in the *Conclusions*. *Conclusions* is not a place for you to add new material but a place to restate and summarize what already stated elsewhere in the write-up. Also, *Conclusions* is where your report's consumers will likely get their eyes on first, so you really want to make it a stand out.
 
  The value you bring as a policy analyst is manifold:
