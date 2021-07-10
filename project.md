@@ -4,7 +4,7 @@ layout: default
 
 title: Project
 
-nav_order: 23
+nav_order: 30
 
 has_toc: false
 
