@@ -15,8 +15,8 @@ has_toc: false
 
 ## Description
 
-In this project, you will be working in teams of three to four. You will craft a six-month response plan to tackle the COVID-19 outbreak in February 2020 leading into the Fall. You will deliver your final projects in two installments as detailed out in the section below. Your final deliverable will include a Poster presentation to be delivered through an unlisted YouTube video.<br>
-You might *loosely* follow the six steps outlined in the [Meltzer & Schwartz](https://doi.org/10.4324/9781315209678) textbook, however you will have flexibility with regard to structuring your final paper. Therefore, sectioning is really up to individual groups although one candidate structure often used for policy reports is *Executive Summary* (optional), *Introduction*, *Background*, *Policy Recommendations*, *Conclusions*, Appendix (optional). An *Executive Summary* is most times perfunctuntory when your ideas have been clearly summarized in the *Conclusions*. Effectively, the *Conclusions* is not a place for you to add new material but a place to restate and summarize what already stated elsewhere in the write-up. Also, the *Conclusions* is where consumers of your report will likely get their eyes on first, so you really want to make it a stand out.
+In this project, you will be working in teams of three to four. You will craft a six-month response plan to **tackle the COVID-19 outbreak in February 2020 leading into the Fall**. You will deliver your final projects in two installments as detailed out in the section below. Your final deliverable will also include a Poster presentation to be delivered through an unlisted YouTube video.<br>
+You might *loosely* follow the six steps outlined in the [Meltzer & Schwartz](https://doi.org/10.4324/9781315209678) textbook, but you will mostly have flexibility with regard to structuring your final paper. Therefore, sectioning is really up to individual groups although one candidate structure often used for policy reports is *Executive Summary* (optional), *Introduction*, *Background*, *Policy Recommendations*, *Conclusions*, Appendix (optional). An *Executive Summary* is most times perfunctuntory when your ideas have been clearly summarized in the *Conclusions*. As a matter of fact, the *Conclusions* is not a place for you to add new material but a place for yout to restate and summarize what already stated elsewhere in the write-up. Also, the *Conclusions* is where consumers of your report will likely get their eyes on first, so you really want to make it a stand out.
 
  The value you bring as a policy analyst is manifold:
 * You critically examine qualitative and quantitative evidence from a variety of sources.
@@ -25,24 +25,27 @@ You might *loosely* follow the six steps outlined in the [Meltzer & Schwartz](ht
 
 ## Context
 
-On February 24th, 2020 the Centers for Disease and Control Prevention (CDC) issues a statement reporting that a virus originating from Wuhan, China is sweeping through the country unchecked. Initial evidence from Chinese researchers demonstrates huge variations in clinical outcomes of patients based on age and preexisting conditions. A vaccine is currently unavailable despite the World Health Organization (WHO) reporting [several vaccine candidates](). As an *analyst serving for the Georgia state legislature*, you seek policy recommendations to address the pandemic within the limits of the legislature’s mandate.
+On February 24th, 2020 the Centers for Disease and Control Prevention (CDC) issues a statement reporting that a virus originating from Wuhan, China is sweeping through the country unchecked. Initial evidence from Chinese researchers demonstrates huge variations in clinical outcomes of patients based on age and preexisting conditions. A vaccine is currently unavailable despite the World Health Organization (WHO) reporting several vaccine candidates. As **an analyst serving for the Georgia state legislature**, you seek policy recommendations to address the pandemic within the limits of the legislature’s mandate. Your plan covers a 6-month period in a good faith attempt to uphold the public interest.
 
-The following readings are essential starters:
-* [Jernigan, R. (2020). Update: Public Health Response to the Coronavirus Disease 2019 Outbreak—United States, February 24, 2020. Morbidity and Mortality Weekly Report, *69(8)*, 216-219.](https://www.cdc.gov/mmwr/volumes/69/wr/mm6908e1.htm)
-* [Yang, X., Yu, Y., Xu, J., Shu, H., Liu, H., et al. (2020). Clinical Course and Outcomes of Critically Ill Patients with SARS-CoV-2 Pneumonia in Wuhan, China: A Single-Centered, Retrospective, Observational Study. The Lancet Respiratory Medicine, 8(5), 475-481.](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30079-5/fulltext?utm_source=sootoday.com&utm_campaign=sootoday.com&utm_medium=referral)
+The following reads are essential starters:
+<div class="code-example" markdown="1">
+<ul>
+  <li> <a href="https://www.cdc.gov/mmwr/volumes/69/wr/mm6908e1.htm">Jernigan, R. (2020). Update: Public Health Response to the Coronavirus Disease 2019 Outbreak—United States, February 24, 2020. <i>Morbidity and Mortality Weekly Report</i>, 69(8), 216-219.</a></li>
+  <li> <a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30079-5/fulltext?utm_source=sootoday.com&utm_campaign=sootoday.com&utm_medium=referral">Yang, X., Yu, Y., Xu, J., Shu, H., Liu, H., et al. (2020). Clinical Course and Outcomes of Critically Ill Patients with SARS-CoV-2 Pneumonia in Wuhan, China: A Single-Centered, Retrospective, Observational Study. <i>The Lancet Respiratory Medicine</i>, 8(5), 475-481.</a></li>
+</ul>
+</div>
   
 
 ## Format
 
-Format is quite open, however you want to be within the **3,000-5,000 words range**. This range is standard for policy reports while policy briefs are on the shorter side coming in at 1,500-3,000 words. You probably want to use Microsoft Word for your final report but really any text editor (e.g., Pages) and markup language (e.g., LateX) is fair game. Adherence to the [APA style guidelines](https://apastyle.apa.org) is required.
-You will be turning in the *Introduction* and *Background* section or the project (or the content which covers those if you decide to departure from the recommended sectioning) halfway through the semester and your final project during the final exam window [Official Calendar](https://registrar.gsu.edu/registration/semester-calendars-exam-schedules/#fall-2021). The Schedule section includes official due dates for the three project deliverables, the two report submissions and the Poster video presentation.
+Format is quite open, but you want to be within the **3,000-5,000 words range**. This range is standard for policy reports while policy briefs are on the shorter side coming in at 1,500-3,000 words. You probably want to use Microsoft Word for your final report but really any text editor (e.g., Pages) and markup language (e.g., LateX) is fair game. Adherence to the [APA style guidelines](https://apastyle.apa.org) is encouraged.
+You will be turning in the *Introduction* and *Background* section or the project (or whatever content which covers those if you decide to departure from the template) halfway through the semester and your final project including the Poster and the related video at the end of the course. The [Schedule](/schedule.md) section includes official due dates for the project deliverables.
 
-  
 
 ## Structure
 
 ### Introduction
-In this section, you define the problem statement and outline the remainder of the report. Effectively, you will reverse-engineer your literature review and policy alternative definitions starting from your problem statement. Hence, you must:
+In this section, you define the problem statement and outline the remainder of the report. Effectively, you will reverse-engineer your literature review your policy alternatives starting from your problem statement. Hence, you must:
 
 * Clearly spell out your **problem statement** avoiding [tautologies](https://www.britannica.com/topic/tautology).
 * Comprehensively define a **public utility function** which includes variables, resources, and constraints to the public choice problem. This does not need be a mathematical presentation but a rigorous showing of your hand. 
