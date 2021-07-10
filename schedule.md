@@ -47,8 +47,8 @@ The outline for the course is displayed below indicating class meetings, materia
   <li><i>Keys</i>: policy evaluation, program evaluation, policy implementation</li>
   <li><i>Readings</i>:</li>
   <ul>
-    <li> <a href="https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. <i>RhetTech Undergraduate Journal</i>, 1:30–34.</a></li>
-    <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
+    <li> <a href="https://doi.org/10.2307/974990">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. <i>RhetTech Undergraduate Journal</i>, 1:30–34.</a></li>
+    <li> <a href="https://www.jstor.org/stable/2725865">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
     </ul>
 </ul>
 </div>
