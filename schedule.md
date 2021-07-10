@@ -40,15 +40,16 @@ The outline for the course is displayed below indicating class meetings, materia
 </ul>
 </div>
 
-#### M1.1: Policy Evaluation
+#### M1.2: Public Policy
 
 <div class="code-example" markdown="1">
 <ul>
   <li><i>Keys</i>: policy evaluation, program evaluation, policy implementation</li>
   <li><i>Readings</i>:</li>
   <ul>
-    <li> <a href="https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. <i>RhetTech Undergraduate Journal</i>, 1:30–34.</a></li>
-    <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
+    <li> <a href="https://doi.org/10.2307/974990">Lowi, T. J. (1972). Four Systems of Policy, Politics, and Choice. <i>Public Administration Review</li>, 32(4):298–310.</a></li>
+    <li> <a href="https://www.jstor.org/stable/2725865">Hanushek, E. A. (1986). The Economics of Schooling: Production and Efficiency in Public Schools. <i>Journal of Economic Literature</i>, 24(3):1141–1177.</a></li>
+    <li> <a href="https://doi.org/10.1080/15236803.2013.12001759">Fan, L. L. (2013). Canonic Texts in Public Policy Studies: A Quantitative Analysis. <i>Journal of Public Affairs Education</i>, 19(4):681–704. [Optional]</a></li>
     </ul>
 </ul>
 </div>
