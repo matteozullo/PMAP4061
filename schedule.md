@@ -241,7 +241,7 @@ The outline for the course is displayed below indicating class meetings, materia
 
 
 | Week     	|   Submodule  	|             Assignments            	|
-|--------	    |--------------	|------------------------------------	|
+|--------	|--------------	|------------------------------------	|
 | *Aug 23* 	| M1.1         	|                                    	|
 | *Aug 30* 	| M1.2         	| Quiz 1 [release]                   	|
 | *Sep 1*  	| M1.2 (cont.) 	|                                    	|
@@ -261,13 +261,13 @@ The outline for the course is displayed below indicating class meetings, materia
 | *Oct 20* 	| M4.2 (cont.) 	|                                    	|
 | *Oct 25* 	| M5.1         	|                                    	|
 | *Oct 27* 	| M5.2 (cont.) 	| Project 1 [due]             	|
-| *Nov 1*  	| M5.2         	| Quiz 3 [due] Quiz 4 [release]      	|
+| *Nov 1*  	| M5.2         	| Quiz 3 [due] <br> Quiz 4 [release]      	|
 | *Nov 3*  	| M5.2 (cont.) 	|                                    	|
 | *Nov 8*  	| M6.1         	|                                    	|
 | *Nov 10* 	| M6.1 (cont.) 	|                                    	|
 | *Nov 15* 	| M6.2         	| Quiz 4 [due]                       	|
 | *Nov 17* 	| M6.2 (cont.) 	|                                    	|
 | *Nov 29* 	| M6.3         	| Quiz 5 [released]                  	|
-| *Dec 1*  	| Project Q&A  	|                                    	|
+| *Dec 1*  	| M6.3 (cont.)  |                                    	|
 | *Dec 6  	| Project Q&A  	|                                    	|
 | *Dec 11* 	|              	| Project 2 [due]<br> Poster & Video [due]<br>Quiz 5 [due] 	|
