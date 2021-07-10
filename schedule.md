@@ -28,8 +28,6 @@ The outline for the course is displayed below indicating class meetings, materia
 ### M1: Introduction
 
 #### M1.1: Policy Evaluation
-* *Keys*: policy evaluation, program evaluation, policy implementation
-* *Readings*:
 
 <div class="code-example" markdown="1">
 <ul>
