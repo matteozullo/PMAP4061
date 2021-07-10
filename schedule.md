@@ -2,13 +2,26 @@
 layout: default
 title: Schedule
 nav_order: 20
-has_toc: false
+has_toc: true
 ---
 
 # Schedule
-
 The modules for this course define the content which students are expected to master at the end of this course. The textbook might be used to reinforce learning but its use is not required. Coversely, readings are mandatory unless marked as "Optional".
 The outline for the course is displayed below indicating class meetings, materials, and assignment release and due dates.
+
+---
+
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 ## Modules
 
@@ -16,15 +29,14 @@ The outline for the course is displayed below indicating class meetings, materia
 
 #### M1.1: Policy Evaluation
 * *Keys*: policy evaluation, program evaluation, policy implementation
+* *Readings*:
 
 <div class="code-example" markdown="1">
 <ul>
   <li> <a href="https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.</a></li>
-  <li>[Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.](https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf)</li>
+  <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). *Is the Brain Drain Good for Africa?* Working Paper 19, Brookings Institute.</a></li>
 </ul>
 </div>
-
-** [Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. *RhetTech Undergraduate Journal*, 1:30–34.](https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf)
 
 #### M1.2: Public Policy
 * *Keys*: private and public utility functions, trade-offs, distributive and redistributive policies
