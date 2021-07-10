@@ -241,7 +241,7 @@ The outline for the course is displayed below indicating class meetings, materia
 
 
 | Week     	|   Submodule  	|             Assignments            	|
-|--------	|--------------	|------------------------------------	|
+|--------	|--------------	|---------------	|
 | *Aug 23* 	| M1.1         	|                                    	|
 | *Aug 30* 	| M1.2         	| Quiz 1 [release]                   	|
 | *Sep 1*  	| M1.2 (cont.) 	|                                    	|
