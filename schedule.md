@@ -44,28 +44,12 @@ The outline for the course is displayed below indicating class meetings, materia
 
 <div class="code-example" markdown="1">
 <ul>
-  <li><i>Keys</i>: policy evaluation, program evaluation, policy implementation</li>
+  <li><i>Keys</i>: private and public utility functions, trade-offs, distributive and redistributive policies</li>
   <li><i>Readings</i>:</li>
   <ul>
     <li> <a href="https://doi.org/10.2307/974990">Lowi, T. J. (1972). Four Systems of Policy, Politics, and Choice. <i>Public Administration Review</i>, 32(4):298–310.</a></li>
     <li> <a href="https://www.jstor.org/stable/2725865">Hanushek, E. A. (1986). The Economics of Schooling: Production and Efficiency in Public Schools. <i>Journal of Economic Literature</i>, 24(3):1141–1177.</a></li>
     <li> <a href="https://doi.org/10.1080/15236803.2013.12001759">Fan, L. L. (2013). Canonic Texts in Public Policy Studies: A Quantitative Analysis. <i>Journal of Public Affairs Education</i>, 19(4):681–704. [Optional]</a></li>
-    </ul>
-</ul>
-</div>
-
-
-
-#### M1.2: Public Policy
-
-<div class="code-example" markdown="1">
-<ul>
-  <li><i>Keys</i>: private and public utility functions, trade-offs, distributive and redistributive policies</li>
-  <li><i>Readings</i>:</li>
-  <ul>
-    <li> <a href="https://doi.org/10.2307/974990">Lowi, T. J. (1972). Four Systems of Policy, Politics, and Choice. <i>Public Administration Review</li>, 32(4):298–310.</a></li>
-    <li> <a href="https://www.jstor.org/stable/2725865">Hanushek, E. A. (1986). The Economics of Schooling: Production and Efficiency in Public Schools. <i>Journal of Economic Literature</i>, 24(3):1141–1177.</a></li>
-
     </ul>
 </ul>
 </div>
