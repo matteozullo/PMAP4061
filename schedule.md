@@ -40,6 +40,19 @@ The outline for the course is displayed below indicating class meetings, materia
 </ul>
 </div>
 
+#### M1.1: Policy Evaluation
+
+<div class="code-example" markdown="1">
+<ul>
+  <li><i>Keys</i>: policy evaluation, program evaluation, policy implementation</li>
+  <li><i>Readings</i>:</li>
+  <ul>
+    <li> <a href="https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. <i>RhetTech Undergraduate Journal</i>, 1:30–34.</a></li>
+    <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
+    </ul>
+</ul>
+</div>
+
 #### M1.2: Public Policy
 
 <div class="code-example" markdown="1">
@@ -235,5 +248,41 @@ The outline for the course is displayed below indicating class meetings, materia
 </ul>
 </div>
 
+
+
+## Outline
+
+
+| Week     	|   Submodule  	|             Assignments            	|
+|--------	|--------------	|------------------------------------	|
+| *Aug 23* 	| M1.1         	|                                    	|
+| *Aug 30* 	| M1.2         	| Quiz 1 [release]                   	|
+| *Sep 1*  	| M1.2 (cont.) 	|                                    	|
+| *Sep 6*  	| No classes   	|                                    	|
+| *Sep 8*  	| M2.1         	|                                    	|
+| *Sep 13* 	| M2.2         	| Quiz 1 [due]                       	|
+| *Sep 15* 	| M2.2 (cont.) 	|                                    	|
+| *Sep 20* 	| M2.3         	| Quiz 2 [release]                   	|
+| *Sep 22* 	| M2.3 (cont.) 	|                                    	|
+| *Sep 27* 	| M3.1         	|                                    	|
+| *Sep 29* 	| M3.1 (cont.) 	|                                    	|
+| *Oct 4*  	| M3.2         	| Quiz 2 [due]                       	|
+| *Oct 6*  	| M3.2 (cont.) 	|                                    	|
+| *Oct 11* 	| M4.1         	|                                    	|
+| *Oct 13* 	| M4.1 (cont.) 	|                                    	|
+| *Oct 18* 	| M4.2         	| Quiz 3 [release]                   	|
+| *Oct 20* 	| M4.2 (cont.) 	|                                    	|
+| *Oct 25* 	| M5.1         	|                                    	|
+| *Oct 27* 	| M5.2 (cont.) 	| Project 1 [due]             	        |
+| *Nov 1*  	| M5.2         	| Quiz 3 [due]<br>Quiz 4 [release]    |
+| *Nov 3*  	| M5.2 (cont.) 	|                                    	|
+| *Nov 8*  	| M6.1         	|                                    	|
+| *Nov 10* 	| M6.1 (cont.) 	|                                    	|
+| *Nov 15* 	| M6.2         	| Quiz 4 [due]                       	|
+| *Nov 17* 	| M6.2 (cont.) 	|                                    	|
+| *Nov 29* 	| M6.3         	| Quiz 5 [released]                  	|
+| *Dec 1*  	| M6.3 (cont.)  |                                    	|
+| *Dec 6*  	| Project Q&A  	|                                    	|
+| *Dec 11* 	|              	| Project 2 [due]<br> Poster & Video [due]<br>Quiz 5 [due] 	|
 
 
