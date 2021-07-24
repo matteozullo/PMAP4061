@@ -30,7 +30,6 @@ The modules for this course define the content which students are expected to ma
 ### M1: Introduction
 
 #### M1.1: Policy Evaluation
-Readings: M&S Introduction, Chapter 1; Abbey & GGG (1998)
 
 <div class="code-example" markdown="1">
 <ul>
@@ -110,7 +109,7 @@ Readings: M&S Introduction, Chapter 1; Abbey & GGG (1998)
 <div class="code-example" markdown="1">
 <ul>
   <li><i>Keys</i>: efficiency, effectiveness, feasibility, public provision and production</li>
-  <li><i>Readings</i>:</li>
+  <li><i>References</i>:</li>
   <ul>
     <li> <a href="https://global.oup.com/academic/product/the-tools-of-government-9780195136654?cc=us&lang=en&">Salamon, L. M. (2002). The New Governance and the Tools of Public Action: An Introduction. In Salamon, L. M., editor, <i>The Tools of Government</i>, chapter 1, pages 1–47. Oxford University Press, New York, NY.</a></li>
     </ul>
