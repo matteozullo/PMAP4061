@@ -15,7 +15,7 @@ has_toc: false
 
 ## Description
 
-In this project, you will be working in teams of three to four. You will craft a six-month response plan to **tackle the COVID-19 outbreak in February 2020 leading into the Fall**. You will deliver your final projects in two installments as detailed out in the section below. Your final deliverable will also include a Poster presentation to be delivered through an unlisted YouTube video.<br>
+In this project, you will be working in teams of three to four. You will craft a six-month response plan to **tackle the COVID-19 outbreak in February 2020 leading into the Fall**. You will deliver your final projects in four installments as detailed out in the section below. Your final deliverable will also include a Poster presentation to be delivered through an unlisted YouTube video.<br>
 The final report will follow the structure most commonly used for policy report including an *Introduction*, a *Background* section, the *Policy Recommendations*, the *Conclusions*, and an *Appendix* (optional). The deliverable is also broken out in four subdeliverable although they do not match the four sections to the final report. Effectively, the *Conclusions* is not a place for you to add new material but a place for you to restate and summarize the content of the write-up. The *Conclusions* section is where consumers of your report will likely get their eyes on first, so you really want to make it a stand out.
 
  The value you bring as a policy analyst is manifold:
