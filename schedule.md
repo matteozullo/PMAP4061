@@ -7,7 +7,7 @@ has_toc: true
 
 # Schedule
 The modules for this course define the content which students are expected to master at the end of this course.
-- The [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook will be used by students to keep up with class instruction. The required readings for each module are posted in the corresponding module section.
+- The [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook will be used by students. The required readings for each module are posted in the corresponding module section.
 - Class meetings and assignment release and due dates are indicated in the [Outline](#outline).
 - Slides accompanying class meetings and solutions to the quiz assignments will be posted here as well.
 
@@ -30,10 +30,7 @@ The modules for this course define the content which students are expected to ma
 ### M1: Introduction
 
 #### M1.1: Policy Evaluation
-
-Readings
-- M&S Introduction, Chapter 1
-- Abbey & GGG (1998)
+Readings: M&S Introduction, Chapter 1; Abbey & GGG (1998)
 
 <div class="code-example" markdown="1">
 <ul>
