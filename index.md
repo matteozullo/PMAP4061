@@ -62,20 +62,21 @@ Total grade is broken down as follows:
 
 * Participation (25 pts.)
 * Quizzes (25 pts.)
-* Project (40 + 10 pts.)
+* Project (50 pts.)
 * Bonus (2.5 pts.)
 
 ### Participation
 At the end of each module, students are required to post a brief comment note of 200 words or less to one of the references. Students will identify a reference of their interest, do the reading, and submit their comment through the participation forum in iCollege. This approach uses the light touch to give undergraduate students some exposure to top-notch academic materials which are most often parts of graduate courses. As such, turning in the comment is sufficient to be awarded full credits.
 
 ### Quizzes
-Five quizzes will be issued during the semester. Students will complete them through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes are open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.
+Five quizzes will be issued during the semester. Students will complete them through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes will be open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.</br>
+Occasionally, students might encounter terminology which they are not familiar with, and that is why they have a chance to look up online sources. Policy analysts often grapple with domains that they have little prior knowledge of, but they are able to learn quickly and effectively.
 
 ### Project
-Please refer to the [Project](/project.md) section for more information. The project consists of a policy report (40 pts.) and a video presentation (10 pts.) to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
+Please refer to the [Project](/project.md) section for more information. The project consists of a policy report (50 pts.) to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
 
 ### Bonus
-In-class exercise will be conducted in the same groups that will complete the group projects. The team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
+In-class exercise will be conducted in the same groups that will complete the group projects. The team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade). There might be more opportunities for bonus points throughout the semester.
 
 ---
 
