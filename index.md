@@ -66,7 +66,7 @@ Total grade is broken down as follows:
 * Bonus (2.5 pts.)
 
 ### Participation
-For each reading, students will write up an abstract which loosely conforms to the BOMCR method (more information and writing examples are available [here](https://www.acgme.org/Portals/0/HowtoWriteanAbstract.pdf) and [here](http://web.mit.edu/communicate/abstracts.html)). I used the word "loosely" before because readings differ therefore different formats might be appropriate at times. Students must turn in the abstracts as a single submission through the corresponding assignment item on iCollege and will be awarded full credits whenever submitting the weekly assignment. 
+At the end of each module, students are required to post a brief comment note of 200 words or less to one of the references. Students will identify a reference of their interest, do the reading, and submit their comment through the participation forum in iCollege. This approach uses the light touch to give undergraduate students some exposure to top-notch academic materials which are most often parts of graduate courses. As such, turning in the comment is sufficient to be awarded full credits.
 
 ### Quizzes
 Five quizzes will be issued during the semester. Students will complete them through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes are open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.
@@ -75,7 +75,7 @@ Five quizzes will be issued during the semester. Students will complete them thr
 Please refer to the [Project](/project.md) section for more information. The project consists of a policy report (40 pts.) and a video presentation (10 pts.) to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
 
 ### Bonus
-In-class exercise will be conducted in the same groups that will complete the group projects. Each team will score every other team's performance and the team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
+In-class exercise will be conducted in the same groups that will complete the group projects. The team ranking first overall will receive 2.5 points at the end of the course (i.e., each group member will add 2.5 bonus points to her total grade).
 
 ---
 
