@@ -41,9 +41,9 @@ This course teaches the theories and methods of policy evaluation integrating qu
 
 ---
 
-## Schedule
+## Content
 
-Please refer to the [Schedule](/schedule.md) section for more information.
+Please refer to the [Schedule](/schedule.md) section for information on the class content and to the [Outline](/outline.md) for a.
 
 ---
 
