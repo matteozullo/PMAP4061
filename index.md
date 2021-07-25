@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Introduction
+title: Policy Evaluation
 nav_order: 10
 has_toc: true
 ---
 
-# Syllabus
+# Policy Evaluation
 
 ---
 
@@ -25,7 +25,7 @@ has_toc: true
 
 This course teaches the theories and methods of policy evaluation integrating quantitative and qualitative skills. Thus, it provides students with the foundational knowledge to be considered for policy analysis positions in the public, private for-profit, and private non-profit sectors.
 
-- **Prerequisites:**: ECON 2105, ECON 2106, PMAP 4041, PMAP 4051
+- **Prerequisites:** ECON 2105, ECON 2106, PMAP 4041, PMAP 4051
 - **Course Dates:** August 23rd – December 6th, 2021
 - **Class Times:** Mon & Wed at 2:00–3:15 PM
 - **Location:** [Aderhold Learning Center (Room 107), 60 Luckie St NW, Atlanta, GA 30303](https://www.google.com/maps/place/Aderhold+Learning+Center/@33.7564192,-84.391006,17z/data=!3m1!4b1!4m5!3m4!1s0x88f503871aed7f0b:0x7739c4923f8b8ca0!8m2!3d33.7564068!4d-84.3888237)
@@ -41,9 +41,9 @@ This course teaches the theories and methods of policy evaluation integrating qu
 
 ---
 
-## Content
+## Syllabus
 
-Please refer to the [Schedule](/schedule.md) section for information on the class content and to the [Outline](/outline.md) for a.
+Please refer to the [Outline](/outline.md) section for information on the class content and to the [Schedule](/schedule.md) section for information about class meetings, reading assignments, and deliverables.
 
 ---
 
@@ -66,11 +66,11 @@ Total grade is broken down as follows:
 * Bonus (2.5 pts.)
 
 ### Participation
-At the end of each module, students are required to post a brief comment note of 200 words or less to one of the references. Students will identify a reference of their interest, do the reading, and submit their comment through the participation forum in iCollege. This approach uses the light touch to give undergraduate students some exposure to top-notch academic materials which are most often parts of graduate courses. As such, turning in the comment is sufficient to be awarded full credits.
+At the end of each module, students will be required to post a brief comment note of 200 words or less to one of the articles referenced in the [Outline](/outline.md). Students will identify a reading of their interest, read it, and submit their note through the participation forum in iCollege. This approach uses the light touch to give undergraduate students some exposure to top-notch academic materials which are most often parts of graduate courses. Students will be awarded full credits for turning in the comments.
 
 ### Quizzes
-Five quizzes will be issued during the semester. Students will complete them through iCollege and solutions will posted in the [Schedule](/schedule.md) of the class website. Quizzes will be open-book (i.e., consultation of web sources and notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and students are likely to complete the quizzes in about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.</br>
-Occasionally, students might encounter terminology which they are not familiar with, and that is why they have a chance to look up online sources. Policy analysts often grapple with domains that they have little prior knowledge of, but they are able to learn quickly and effectively.
+Five quizzes will be issued during the semester to be completed through iCollege (solutions will be posted in the [Schedule](/schedule.md) section of the website). Quizzes are open-book (i.e., consultation of web sources and class notes is allowed) and contain 10 questions each to be completed within 45 minutes. Please note that this is an extremely generous time allocation and expected time for completion is about half-an-hour. At the end of the course, quiz scores will be totaled up and curved if average class performance falls below the expected grade of B.</br>
+Occasionally, students might encounter terminology which they are not familiar with. Beacuse of that, they will have a chance to look up online sources. Policy analysts often grapple with domains that they have little prior knowledge of, but they are able to learn quickly and effectively.
 
 ### Project
 Please refer to the [Project](/project.md) section for more information. The project consists of a policy report (50 pts.) to be completed in teams of three to four. Each group member will be awarded the same grade, however students who wish to complain about their group collaboration are encouraged to voice their concerns as early as possible.
@@ -83,10 +83,10 @@ In-class exercise will be conducted in the same groups that will complete the gr
 ## Policies
 
 ### Late Policy
-Late submissions are **wholeheartedly discouraged** but no late policy applies. Students who fail to meet deadlines must follow-up on their late submissions with an e-mail note providing a justification for the delay.
+Late work is not in the spirit of the class and is **wholeheartedly discouraged** but no late policy applies. Students who fail to meet deadlines must follow-up on their late submissions with an e-mail note providing a justification for the delay.
 
 ### Issues
-Broader issues which affect the student performance throughout the semester – including and not limited to disability, childcare, and mental health – must be notified to the instructor **at the beginning of the semester**. Late notifications of longstanding issues might not be a reason to waive any class requirements.
+Broader issues which affect student performance throughout the semester – including and not limited to disability, childcare, and mental health – must be notified to the instructor **at the beginning of the semester**. Late notifications of longstanding issues might not be a reason to waive any class requirements.
 
 ### Attendance
 Class attendance is **required**. Students who experience personal or work-related issues might occasionally skip class meetings. When that happens, students are reponsible for sending out an e-mail note to the instructor and encouraged to attend office hours to make up for the material.
