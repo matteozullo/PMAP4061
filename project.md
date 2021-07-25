@@ -80,39 +80,42 @@ Use paragraphs to break down your [single major points](https://owl.purdue.edu/o
 ### Policy Recommendations
 You will:
 * **Identify at least three policy interventions including a “no intervention” scenario**. Give a succinct presentation of the alternatives outlining their strengths and weaknesses based on the best available evidence. Please note that a policy intervention is not a program. One policy intervention might occasionally boil down to a single program but most often encompasses one or more programs, multiple pieces of legislation, and several budget allocations. The difference between a policy and a program as tools of public policy is the same difference that there is between policy evaluation and program evaluation as academic disciplines.
-* **Score your policy alternatives** using qualitative or quantitative methods of choosing. You can definitely perform a cost-benefit analysis but this is not required. However, you must qualify your statements with cost-benefit measures such as the per-unit benefit of every $1 spent on the policy or their measurable impacts on individual wellbeing. For example, a policy involving remote instruction should include its costs in terms of student achievement (i.e., how much worse or better students are expected to perform under the proposed configuration). Sometimes, one policy alternative dominates rival policies by orders of magnitude, in which case a full-blown cost-benefit analysis is totally unnecessary. Explain what you are doing and list any assumptions. A Goeller scorecard display of your alternatives and criteria must be provided to summarize the information. The suggestion here is to start with your 
+* **Score your policy alternatives** using qualitative or quantitative methods of choosing. You can definitely perform a cost-benefit analysis but this is not required. However, you must qualify your statements with cost-benefit measures such as the per-unit benefit of every $1 spent on the policy or their measurable impacts on individual wellbeing. For example, a policy involving remote instruction should include its costs in terms of student achievement (i.e., how much worse or better students are expected to perform under the proposed configuration). Sometimes, one policy alternative dominates rival policies by orders of magnitude, in which case a full-blown cost-benefit analysis is totally unnecessary. Explain what you are doing and list any assumptions. A Goeller scorecard display of your alternatives and criteria must be provided to summarize the information. The suggestion here is to start with the Goeller display and write up your *Policy Recommendations* section as you walk the reader through it.
 * **Propose one of the intereventions for adoption** from the state legislature. If you think two or more policy alternatives are equally viable and prefer not to take a stand, that is also fine as long as you argue for your position.
 
 One good way of thinking of policy recommendations is asking yourself three questions:
-* Have I considered the policy space in full or am I giving a full answer to what is a partial definition of the policy problem? You want your presentation to be **comprehensive**.
-* Will my presentation withstand the most likely challenges from the audience? You want your presentation to be **coherent**.
-* Will my policy recommendations fall flat or will they call for action? You want your presentation to be **actionable**.
+* Have I considered the policy space in full or am I giving a full answer to what is a partial definition of the policy problem? Therefore, you want your presentation to be **comprehensive**.
+* Will my presentation withstand the most likely challenges from the audience? Therefore, you want your presentation to be **coherent**.
+* Will my policy recommendations fall flat or will they call for action? Therefore, you want your presentation to be **actionable**.
 
 ### Conclusions
-This section will not introduce new information but **restate your main points** and the call for action. Please note that most non-academic readers will start or even limit their reading time to the *Conclusions*. Therefore, it is paramount to keep the delivery crisp and clear. As a side-benefit, there will be no need for an *Executive Summary* if the *Conclusions* section is a good enough wrap-up for a policy report. Different policy analysts tend to use one or the other, and often times reports featuring both might add excessive redundancies to the writing.
+This section will not introduce new information but **restate your main points** and the call for action. Please note that most non-academic readers will start or even limit their reading time to the *Conclusions*. Therefore, it is paramount to keep the delivery crisp and clear. As a side-benefit, there will be no need for an *Executive Summary* if the *Conclusions* section is a good enough wrap-up for the policy report. Different policy analysts tend to use one or the other, and often times reports featuring both might add excessive redundancies to the writing.
 
-  
-
-## Presentation
-
-You will be creating a Poster for your presentation and create a **5-min video** in which you go over the Poster and present its content in a compelling way. You will upload it through a Google account as un [unlisted YouTube video](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) and turn in the URL from YouTube on iCollege.<br>
-Uploading video is an extremely easy process on YouTube (more information [here](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en)). A lower-resolution video will be ready before the 4K version of the video has been uploaded (more information [here](https://support.google.com/youtube/answer/71674?hl=en)) and I highly encourage you to do the waiting and turn in a 4K video. Although submitting a lower-resolution video will not impact your grade, the difference in quality is just striking. Unlisted videos might only be accessed by those possessing the link, hence the upload process does not expose your work and intellectual property to any external viewers.<br>
-Recording a short video is a very good exercise for you to work on your ability to condense down complex policy messages. Here are some suggestions for the Poster and video deliverables:
-- You will find plenty of Poster templates online such as [this one](https://www.hsph.harvard.edu/public-health-practice-resources-old/practice-information/student-posters/examples-of-posters/) from the Harvard School of Public Health. You might want to use [Google Drawings](https://docs.google.com/drawings) to create your poster or other software of your choosing. The suggested dimensions for your poster are 48-inch width and 36-inch height in portrait or landscape orientation, and the use of font size 18 or larger is highly recommended.
-- Because 5 minutes is a limited amount of time that you have to explain your ideas, you will need to select the information you present (*hint*: abide by Simon's satisficing principle and other behavioral principles you will learn in class). You might want to write copy beforehand so that filler words such as "so", "uhm", and the likes do not dominate your presentation.
-
-  
 
 ## Grading
 
 The content of your write-up will not be a factor in the grading. You will be graded against:
-* [~25%] The completeness of your project as per the requirements outlined above.
-* [~25%] The selection and discussion of evidence.
-* [~25%] Thoroughness of your problem statement and policy alternative definitions.
-* [~25%] The quality of your writing and presentation.
+* [~25%] The completeness of your project as per the requirements outlined above. A checklist of the materials to be included in the final report is presented. Failure to include any of the listed items will cause up to a 2.5 point deduction.
 
-*Hint*: none of the words in boldface in this section is bold-faced by chance. Think of them as a checklist albeit a very flexible one.
+| Section             | Items                                                                           |
+|---------------------|---------------------------------------------------------------------------------|
+| Introduction        | Problem statement, stakeholder analysis, public utility function, research plan |
+| Background          | Theoretical literature, empirical literature, data sources                      |
+| Policy Alternatives | Intervention scenarios, policy recommendation, Goeller scorecard display        |
+| Conclusions         | Summary of main points, call for action                                         |
 
-The Poster presentation will be evaluated against:
-* [-50%] The poster design. Sectioning must be easy on the eyes and use of texts minimized. If you have good graphs or visuals, the Poster is their chance to shine. You will not be writing full sentences because the video and audio inputs would otherwise cancel out. Instead, you will use texts as visual cues for the audience to keep up with your presentation. Grammar and spelling mistakes must be avoided.
-* [-50%] The presentation delivery. You do not want to rush through your presentation as that will indicate that you have packed it with too much content and did not select the most important takeaways. A well-articulated 4-min video wins any 5-min videos where you rush through your final four or five sentences. It is totally fine to use social science vocabulary as long as you explain what you are talking about. It is a huge misconception that avoiding big words is a marker for clarity. It is not. The flow of ideas is what makes or breaks a presentation. Therefore, careful selection of content including mentions of data and evidence, clear organization of your arguments in a syllogistic form ("A implies B, and we observe A so..."), and clarity of delivery are all factors in your grade.
+* [~15%] The selection and discussion of evidence.
+    * [~5%] Are the sources reputable and relevant?
+    * [~5%] Are the different aspects of your response plan (economic, educational, public health, etc.) covered?
+    * [~5%] Are the references coherently tied together and back to the problem statement?
+* [~35%] Thoroughness of your presentation.
+    * [~7.5%] Does your problem statement cover the "5Ws"?
+    * [~7.5%] Do you adequately characterize the policy space (first principles, objective function, resources, variables, constraints)?
+    * [~7.5%] Are your policy alternatives mutually exclusive, non-overlapping, and collectively exhaustive of what might be done?
+    * [~7.5%] Are you using appropriate quantifications and citations to justify your policy alternatives?
+* [~30%] The quality of your writing and presentation.
+    * [~15%] Do you avoid any tautologies and logical fallacies?
+    * [~7.5%] Is your use of paragraphation and single major points conducive to reading?
+    * [~7.5%] Do you draw from the policy analysis vocabulary and lingua?
+
+*Hint*: none of the words in boldface in this section is bold-faced by chance.
