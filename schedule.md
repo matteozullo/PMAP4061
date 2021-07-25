@@ -242,38 +242,6 @@ The modules for this course define the content which students are expected to ma
 ## Outline
 
 
-| Week     	|   Submodule  	|             Assignments            	|
-|--------	|--------------	|---------------	|
-| *Aug 23* 	| M1.1         	|                                    	|
-| *Aug 30* 	| M1.2         	| Quiz 1 [release]                   	|
-| *Sep 1*  	| M1.2 (cont.) 	|                                    	|
-| *Sep 6*  	| No classes   	|                                    	|
-| *Sep 8*  	| M2.1         	|                                    	|
-| *Sep 13* 	| M2.2         	| Quiz 1 [due]\***                       	|
-| *Sep 15* 	| M2.2 (cont.) 	|                                    	|
-| *Sep 20* 	| M2.3         	| Quiz 2 [release]                   	|
-| *Sep 22* 	| M2.3 (cont.) 	|                                    	|
-| *Sep 27* 	| M3.1         	|                                    	|
-| *Sep 29* 	| M3.1 (cont.) 	|                                    	|
-| *Oct 4*  	| M3.2         	| Quiz 2 [due]\***                       	|
-| *Oct 6*  	| M3.2 (cont.) 	|                                    	|
-| *Oct 11* 	| M4.1         	|                                    	|
-| *Oct 13* 	| M4.1 (cont.) 	|                                    	|
-| *Oct 18* 	| M4.2         	| Quiz 3 [release]                   	|
-| *Oct 20* 	| M4.2 (cont.) 	|                                    	|
-| *Oct 25* 	| M5.1         	|                                    	|
-| *Oct 27* 	| M5.2 (cont.) 	| Project 1 [due]\***             	        |
-| *Nov 1*  	| M5.2         	| Quiz 3 [due]\*** <br>Quiz 4 [release]    |
-| *Nov 3*  	| M5.2 (cont.) 	|                                    	|
-| *Nov 8*  	| M6.1         	|                                    	|
-| *Nov 10* 	| M6.1 (cont.) 	|                                    	|
-| *Nov 15* 	| M6.2         	| Quiz 4 [due]\***                     	|
-| *Nov 17* 	| M6.2 (cont.) 	|                                    	|
-| *Nov 29* 	| M6.3         	| Quiz 5 [released]                  	|
-| *Dec 1*  	| M6.3 (cont.)  |                                    	|
-| *Dec 6*  	| Project Q&A  	|                                    	|
-| *Dec 11* 	|              	| Project 2 [due]\*** <br> Poster & Video [due]\*** <br> Quiz 5 [due]\*** 	|
-
 | Week   	|   Submodule  	| Readings  	|              Assignments              	|
 |--------	|:------------:	|-----------	|:-------------------------------------:	|
 | Aug 23 	| M1.1         	| M&S Intro 	|                                       	|
