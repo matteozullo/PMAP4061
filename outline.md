@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Schedule
+title: Outline
 nav_order: 20
 has_toc: true
 ---
 
-# Schedule
+# Outline
 The modules for this course define the content which students are expected to master at the end of this course.
-- The [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook will be used by students. The required readings for each module are posted in the [Outline](/outline.md).
-- Class meetings and assignment release and due dates are also indicated in the [Outline](/outline.md).
+- The [Meltzer & Schwarz (2019)](https://www.routledge.com/Policy-Analysis-as-Problem-Solving-A-Flexible-and-Evidence-Based-Framework/Meltzer-Schwartz/p/book/9781138630178) textbook will be used by students. The required readings for each module are posted in the [Schedule](/schedule.md).
+- Class meetings and assignment release and due dates are also indicated in the [Schedule](/schedule.md).
 - Slides accompanying class meetings and solutions to the quiz assignments will be posted there as well.
 
 ---
