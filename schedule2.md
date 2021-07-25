@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Outline
+title: Schedule
 nav_order: 25
 has_toc: false
 ---
 
-# Outline
+# Schedule
 
 
 | Week   	|   Submodule  	| Readings  	|              Assignments              	|
