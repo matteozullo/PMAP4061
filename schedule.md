@@ -37,7 +37,7 @@ The modules for this course define the content which students are expected to ma
   <li><i>References</i>:</li>
   <ul>
     <li> <a href="https://www.jmu.edu/wrtc/_files/rhettech-vol-1/PolicyBriefMentalHealth2.pdf">Long, M. A. (2019). Policy Brief on Mental Health on U.S. College Campuses. <i>RhetTech Undergraduate Journal</i>, 1:30–34.</a></li>
-    <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Long, M. A. (2019). Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
+    <li> <a href="https://www.brookings.edu/wp-content/uploads/2016/06/03_brain_drain_easterly.pdf">Easterly, W. & Nyarko, Y. (2008). <i>Is the Brain Drain Good for Africa?</i> Working Paper 19, Brookings Institute.</a></li>
     </ul>
 </ul>
 </div>
