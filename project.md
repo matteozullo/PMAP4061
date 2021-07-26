@@ -119,4 +119,4 @@ The content of your write-up will not be a factor in the grading. You will be gr
     * [~7.5%] Is your use of paragraphation and single major points conducive to reading?
     * [~7.5%] Do you draw from the policy analysis vocabulary and lingua?
 
-*Hint*: none of the words in boldface in this section is bold-faced by chance. Intermediate deliverable will be graded against partial versions of the rubric above.
+*Hint*: none of the words in boldface in this section is bold-faced by chance. Intermediate deliverables will be graded against partial versions of the rubric above.
